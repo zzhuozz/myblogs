@@ -39,4 +39,4 @@
 
 能够完成自动旋转、拆分、重组、抓取移动、抓取旋转、全自动分段等交互功能。
 
-![UI示意图]https://github.com/zzhuozz/myblogs/blob/main/picture_2.png
+![UI示意图](https://github.com/zzhuozz/myblogs/blob/main/picture_2.png)
