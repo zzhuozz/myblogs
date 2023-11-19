@@ -39,4 +39,5 @@
 
 能够完成自动旋转、拆分、重组、抓取移动、抓取旋转、全自动分段等交互功能。
 
-![IMG_20231118_220846](D:\QQ\document\MobileFile\IMG_20231118_220846.png)
+[![IMG_20231118_220846](D:\QQ\document\MobileFile\IMG_20231118_220846.png)
+](https://github.com/zzhuozz/myblogs/blob/main/picture_2.png)https://github.com/zzhuozz/myblogs/blob/main/picture_2.png
