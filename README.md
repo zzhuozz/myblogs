@@ -23,7 +23,7 @@
 
 #### 1、在设备上可视化展示肝脏及血管树
 
-实现可以从服务器中下载肝脏数据集（stl），在unity中运用c#脚本，将肝脏数据集（stl）转变为unity中的预制件（Prefab），便于后续在设备上的部署![image-20231118214334080](C:\Users\11028\AppData\Roaming\Typora\typora-user-images\image-20231118214334080.png)
+实现可以从服务器中下载肝脏数据集（stl），在unity中运用c#脚本，将肝脏数据集（stl）转变为unity中的预制件（Prefab），便于后续在设备上的部署[![image-20231118214334080](C:\Users\11028\AppData\Roaming\Typora\typora-user-images\image-20231118214334080.png)](https://github.com/zzhuozz/myblogs/blob/main/picture_1.png)
 
 #### 2、开发“点选”功能，利用裸眼3d设备点选肝脏对应的区域
 
